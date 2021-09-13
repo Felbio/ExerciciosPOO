@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
-/*Fazer um algoritmo para ler os valores dos coeficientes A,B e C de uma equação quadrática. 
-Calcular e imprimir o valor do discriminante (delta). Delta = B² − 4 ∗ A ∗ C .*/
-
 
 namespace Exe3
 {

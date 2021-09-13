@@ -1,11 +1,5 @@
 ﻿using System;
 
-/*Teorema de Pitágoras: H² = L1² + L²
-2. Tem uma infinidade de números com essa combinação. Dado dois números inteiros
-positivos, M e N, onde M é maior do que N, desenvolver um algoritmo para entrar com dois números 
-positivos e fornecer os valores, dos lados e hipotenusa do triângulo gerados combinando M e N. 
-Onde: L1 = M² − N² , L2 = 2 ∗ M ∗ N e Hipotenusa = M² * N².*/
-
 namespace Exe2
 {
     class Program
