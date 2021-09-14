@@ -1,4 +1,4 @@
-# ExerciciosPOO
+# ExerciciosPOO C#
 Resolução da Primeira Lista de Exercícios
 
 1) O coração humano bate em média uma vez por segundo. Desenvolva um algoritmo para calcular e escrever quantas vezes o
