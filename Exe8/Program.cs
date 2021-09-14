@@ -13,6 +13,7 @@ namespace Exe8
             int dia = ((idade % 365) % 30) ;
 
             Console.WriteLine("Você têm " + ano + " anos, " + mes + " meses e " + dia + " dias.");
+            Console.ReadKey();
 
         }
     }

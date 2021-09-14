@@ -16,6 +16,7 @@ namespace Exe6
                         
             Console.WriteLine("Área é igual a " + area.ToString("F2") + "m³");
             Console.WriteLine("Volume é igual a " + vol.ToString("F2") + "m³");
+            Console.ReadKey();
         }
     }
 }

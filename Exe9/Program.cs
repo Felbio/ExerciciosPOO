@@ -21,6 +21,7 @@ namespace Exe9
             +  dez + " notas de R$10,00,\n"
             + cinc + " notas de R$5,00 e\n"
             + hum + " notas de R$1,00.");
+            Console.ReadKey();
         }
     }
 }

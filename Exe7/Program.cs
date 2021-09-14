@@ -18,6 +18,7 @@ namespace Exe7
             d = (r + s) / 2.0;
 
             Console.WriteLine("O resultado da sentença é " + d.ToString("F2") + ".");
+            Console.ReadKey();
         }
     }
 }

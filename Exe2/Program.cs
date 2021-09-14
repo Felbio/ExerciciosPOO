@@ -16,6 +16,7 @@ namespace Exe2
             Console.WriteLine("L1 = " + L1.ToString("F2"));
             Console.WriteLine("L2 = " + L2.ToString("F2"));
             Console.WriteLine("Hipotenusa = " + hipotenusa.ToString("F2"));
+            Console.ReadKey();
         }
     }
 }

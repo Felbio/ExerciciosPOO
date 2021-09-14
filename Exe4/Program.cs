@@ -15,6 +15,7 @@ namespace Exe4
             t = (l1 + l2 + l3) / 2;
             area = Math.Sqrt(t * (t - l1)*(t - l2)*(t - l3));
             Console.WriteLine("A área do triângulo é: " + area.ToString("F2"));
+            Console.ReadKey();
         }
     }
 }

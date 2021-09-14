@@ -19,6 +19,7 @@ namespace Exe5
 
             double det = (a11 * a22) - (a21 * a12);
             Console.WriteLine("Determinante é igual a:" + det.ToString("F2")); 
+            Console.ReadKey();
 
         }
     }

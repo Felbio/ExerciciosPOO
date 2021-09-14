@@ -22,6 +22,7 @@ namespace Exe3
             }else{
                 Console.WriteLine("O valor de Delta é: " + delta.ToString("F2"));
             }
+            Console.ReadKey();
         }
     }
 }
